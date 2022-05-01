@@ -1,0 +1,28 @@
+car_id;brand;model;year
+1;Audi;A3;2011
+2;Audi;A3;2016
+3;Audi;RS6;2018
+4;Audi;Q8;2015
+5;Audi;Q8;2017
+6;BMW;M2;2016
+7;BMW;328i;2006
+8;BMW;328i;2013
+9;BMW;535i;2009
+10;Ford;Focus;2006
+11;Ford;Focus;2016
+12;Ford;Mustang;2018
+13;Mercedes;A45;2018
+14;Mercedes;A45;2019
+15;Mercedes;C63;2013
+16;Mercedes;C63;2018
+17;Mercedes;GTS;2020
+18;Mini;Cooper;2018
+19;Porsche;911 GT3 RS;2016
+20;Porsche;Macan Turbo;2019
+21;Toyota;Supra;1993
+22;Toyota;Prius;2008
+23;Toyota;Prius;2011
+24;Toyota;Prius;2016
+25;Volvo;XC90;2016
+26;Volvo;XC90;2018
+27;Volvo;S60;2006
